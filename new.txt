@@ -1,0 +1,5 @@
+1) name - Oleksandr
+2) surname - Kryvenko
+3) age - 38
+4) pet_name - Shelby
+5) salary - 1500
