@@ -1,0 +1,6 @@
+1) skill_1 - Postman
+2) skill_2 - SQL
+3) skill_3 - Git
+4) skill_4 - JS
+5) skill_5 - Bugreports
+6) skill_6 - Checklists

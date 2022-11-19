@@ -1,0 +1,5 @@
+1) favourite_movie - The_green_mile
+2) favourite_series - The_walking_dead
+3) favourite_dish - knidli
+4) favourite_season - Summer
+5) country_to_visit - Czech
